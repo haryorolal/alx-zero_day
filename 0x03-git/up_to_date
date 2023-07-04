@@ -4,3 +4,4 @@ git status
 git push
 git checkout -b
 git switch
+git pull
